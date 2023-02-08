@@ -1,0 +1,12 @@
+#Gentle auto-respond notifying the sender that you believe their email is unsolicited and is being reported. Please note this is specific to Canadian anti-spam laws.
+
+Subject: UNSUBSCRIBE
+Body:
+
+Hi,
+How familiar are you/your firm with CASL?
+ 
+Sincerely,
+Unsubscribe
+
+This was an automated message. Your email was detected as an unsolicited spam email violating Canada’s AntiSpam Law and was automatically reported to: spam@fightspam.gc.ca. Learn more about fines here: https://crtc.gc.ca/eng/ce/actions.htm
