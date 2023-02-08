@@ -1,5 +1,5 @@
 # Stop-Spam: Techniques to Stop Unsolicited Emails in Exchange
-Every morning I wake up to a plethora of unsolicited spam blast. When you have a "C" in your title, you are a marked person. I figured I'd create an Exchange rule to stop, block, unsubscribe and report spam emails.
+Every morning I wake up to a plethora of unsolicited spam blasts. When you have a "C" in your title, you are a marked person. I figured I'd create an Exchange rule to stop, block, unsubscribe and report spam emails.
 
 Note: Filtering in/out emails can break stuff and also block/report legitimate email, so please implement the following with care and **use at your own risk**.
 
